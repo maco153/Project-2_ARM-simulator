@@ -439,7 +439,7 @@ if ((offset5 >> 4) == 1)
             }
         }
         else if (f == 1)
-        //--------i dont what is the diffeerence between hs and rd -----------------------//
+        
         { //-------------------------------------format 5-------------------------------//
         //doesnot requried
             switch (op >> 2)
@@ -1119,12 +1119,4 @@ rd = instr & 7;
 }
 
 
-//missing 
-/////1)formate 4, 16 -----cpsr ---flags
-/////mahmod 2) rd holds value not address
-/////basouny 3) assigning the values to r0 (swoffset)
-///// Andrew formate 9 
-/////report 
-///formate 19 (second instruction)
-//dead instruvtion
-// -----------e7na hanlbeees b2zn alaaah 😃🙃😭😭😭😭😭😭😭😭
+
